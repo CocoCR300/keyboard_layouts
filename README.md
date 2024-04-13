@@ -17,5 +17,5 @@ The major problems around PD is that it has a poorly thought out symbol layout.
 ![base layer](./rp_dvorak_base.jpg)
 ### Shift layer:
 ![shift layer](./rp_dvorak_shift.jpg)
-### Shift layer
+### AltGr layer
 ![shift layer](./rp_dvorak_alt_graphic.jpg)
