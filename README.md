@@ -1,7 +1,7 @@
 ## Motivation
-I type everyday of the week.  For five of those seven days, i type for about 6-7 hours.
+I type everyday of the week.  For five of those seven days, I type for about 6-7 hours.
 It makes sense, removing my will for complacency, that i switch to a more efficient keyboard, if there is one.
-I present to you, Real Programmers Dvorak.
+I present to you, Real Programmer's Dvorak.
 
 ## Why Dvorak?
 Dvorak comes on evey major OS.
@@ -13,7 +13,9 @@ The major problems around PD is that it has a poorly thought out symbol layout.
 ** The opening and closing symbols are oddly placed.  It makes so much more sense that finger used to open is the same finger on the closing hand.
 
 ## Preview
-Base layer:
-![base layer](./rpd.PNG)
-Shift layer:
-![shift layer](./rpd-shift.PNG)
+### Base layer:
+![base layer](./rp_dvorak_base.PNG)
+### Shift layer:
+![shift layer](./rp_dvorak_shift.PNG)
+### Shift layer
+![shift layer](./rp_dvorak_alt_graphic.PNG)
