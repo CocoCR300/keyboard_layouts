@@ -5,26 +5,26 @@ xkb_symbols "basic" {
 
     name[Group1]= "English (Real Programmer Dvorak)";
 
-    key <TLDE> { [ dollar,			asciitilde,				dead_grave,				dead_tilde ] };
+    key <TLDE> { [ dollar,			asciitilde,				deadtilde ] };
 
     key <AE01> { [ plus,			1 ] };
     key <AE02> { [ bracketleft,		2 ] };
     key <AE03> { [ braceleft,		3 ] };
     key <AE04> { [ parenleft,		4 ] };
     key <AE05> { [ ampersand,		5 ] };
-    key <AE06> { [ equal,			6,						dead_circumflex ] };
+    key <AE06> { [ equal,			6 ] };
     key <AE07> { [ parenright,		7 ] };
     key <AE08> { [ braceright,		8 ] };
-    key <AE09> { [ bracketright,	9,						dead_grave] };
+    key <AE09> { [ bracketright,	9 ] };
     key <AE10> { [ asterisk,		0 ] };
     key <AE11> { [ exclam,			percent,				exclamdown ] };
-    key <AE12> { [ bar,				grave,					dead_tilde ] };
+    key <AE12> { [ bar,				grave ] };
 
-    key <AD01> { [ semicolon,		colon,					dead_acute,				dead_diaeresis ] };
-    key <AD02> { [ comma,			less ] };
-    key <AD03> { [ period,			greater,				dead_abovedot,			periodcentered  ] };
-    key <AD04> { [ p,				P,						Greek_pi,				Greek_PI ] };
-    key <AD05> { [ y,				Y,						Greek_lambda,			Greek_LAMBDA ] };
+    key <AD01> { [ semicolon,		colon,					dead_diaeresis ] };
+    key <AD02> { [ comma,			less,					guillemotleft ] };
+    key <AD03> { [ period,			greater,				guillemotright  ] };
+    key <AD04> { [ p,				P,						Greek_pi ] };
+    key <AD05> { [ y,				Y ] };
     key <AD06> { [ f,				F ] };
     key <AD07> { [ g,				G ] };
     key <AD08> { [ c,				C,						cent ] };
@@ -38,9 +38,9 @@ xkb_symbols "basic" {
     key <AC01> { [ a,				A,						dead_acute ] };
     key <AC02> { [ o,				O,						dead_diaeresis ] };
     key <AC03> { [ e,				E ] };
-    key <AC04> { [ u,				U ] };
+    key <AC04> { [ u,				U,						udiaeresis,				Udiaeresis ] };
     key <AC05> { [ i,				I ] };
-    key <AC06> { [ d,				D ] };
+    key <AC06> { [ d,				D,						degree ] };
     key <AC07> { [ h,				H ] };
     key <AC08> { [ t,				T ] };
     key <AC09> { [ n,				N,						ntilde,					Ntilde ] };
